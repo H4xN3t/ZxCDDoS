@@ -1,5 +1,5 @@
 ##############################
-# ZxCDDoS Made by H4xN3t   #
+# ZxCDDoS Made by H4xN3t     #
 # COPY = NIGGER              #
 ##############################
 
